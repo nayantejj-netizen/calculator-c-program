@@ -24,13 +24,13 @@ double divide(double a, double b) {
 // UI Function
 void showMenu() {
     printf("\n====================================\n");
-    printf("     🔢 FUNCTION CALCULATOR 🔢\n");
+    printf("       FUNCTION CALCULATOR \n");
     printf("====================================\n");
-    printf("1. ➕ Addition\n");
-    printf("2. ➖ Subtraction\n");
-    printf("3. ✖️ Multiplication\n");
-    printf("4. ➗ Division\n");
-    printf("5. ❌ Exit\n");
+    printf("1. + Addition\n");
+    printf("2. - Subtraction\n");
+    printf("3. * Multiplication\n");
+    printf("4. / Division\n");
+    printf("5. X Exit\n");
     printf("====================================\n");
 }
 int main (){
@@ -89,7 +89,7 @@ while(1){
     
     
     
-    
+    // Created by NAYAN TEJ J
     
 }
     
